@@ -1,1 +1,1 @@
-# EMBO_2025_fatimaj
+# EMBO pop genomics workshop 2025
